@@ -25,8 +25,6 @@
 
 .container {
     width: 100%;
-    /* padding-right: 15px;
-    padding-left: 15px; */
     margin-right: auto;
     margin-left: auto;
 }
@@ -42,7 +40,6 @@
     font-size: 27px;
     line-height: 47px;
     color: #f99b3b;
-    /* margin: 14% auto; */
     text-align: center;
     display: block;
     font-weight: 600;
@@ -80,7 +77,6 @@
 
 .sectionfirstimg {
     width: 50%;
-    /* padding-left: 30px; */
 
 }
 
