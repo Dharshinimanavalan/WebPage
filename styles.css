@@ -1,11 +1,11 @@
-
 @font-face {
     font-family: 'Glegoo';
     src: url('fonts/Glegoo-Regular.woff2') format('woff2'),
-         url('fonts/Glegoo-Regular.woff') format('woff');
+        url('fonts/Glegoo-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
 * {
     padding: 0px;
     margin: 0px;
@@ -38,7 +38,7 @@
     padding: 0px 17px;
 }
 
-.ServicesClsh1{
+.ServicesClsh1 {
     font-size: 27px;
     line-height: 47px;
     color: #f99b3b;
@@ -50,26 +50,26 @@
     text-transform: uppercase;
 }
 
-.Services{
+.Services {
     background-color: black;
     padding: 75PX;
 }
 
-.secondsectionp{
-    font-family: 'Merienda', cursive;    
+.secondsectionp {
+    font-family: 'Merienda', cursive;
     font-size: 18px;
     text-align: center;
 }
 
-.servicesectionmain{
+.servicesectionmain {
     padding: 10px;
 }
 
-.servisectionsecondh3{
+.servisectionsecondh3 {
     padding-top: 30px;
 }
 
-.sectioncontent{
+.sectioncontent {
     float: left;
     width: 50%;
     padding: 34px;
@@ -78,18 +78,18 @@
     font-family: 'Titillium Web', sans-serif !important;
 }
 
-.sectionfirstimg{
-     width: 50%;
+.sectionfirstimg {
+    width: 50%;
     /* padding-left: 30px; */
 
 }
+
 .servicesectionmain,
-.servisectionthird
- {
+.servisectionthird {
     background-color: #e0e0e0d4;
 }
 
-.servisectionfirstbtn{
+.servisectionfirstbtn {
     padding: 7px;
     border: 2px solid #f99e41;
     color: #6bc05e;
@@ -103,15 +103,15 @@
     text-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.2);
 }
 
-.servisectionsecond{
-   background-color: black;   
+.servisectionsecond {
+    background-color: black;
 }
 
-.servisectionsecondpara{
-color: white;
+.servisectionsecondpara {
+    color: white;
 }
 
-.sectioncontentsecond{
+.sectioncontentsecond {
     float: left;
     width: 50%;
     padding: 49px;
@@ -120,12 +120,12 @@ color: white;
     font-family: 'Titillium Web', sans-serif !important;
 }
 
-.sectionsecondimg{
+.sectionsecondimg {
     width: 40%;
     margin-bottom: 28px;
 }
 
-.sectioncontentthird{
+.sectioncontentthird {
     float: left;
     width: 50%;
     padding: 46px;
@@ -134,7 +134,7 @@ color: white;
     font-family: 'Titillium Web', sans-serif !important;
 }
 
-.sectioncontentfour{
+.sectioncontentfour {
     float: left;
     width: 50%;
     padding: 48px;
@@ -143,10 +143,11 @@ color: white;
     font-family: 'Titillium Web', sans-serif !important;
 }
 
-.servisectionfour{
+.servisectionfour {
     background-color: #e0e0e0d4;
 }
-.sectioncontentfiveh3{
+
+.sectioncontentfiveh3 {
     width: 50%;
     padding: 48px;
     font-size: 22px;
@@ -156,7 +157,7 @@ color: white;
     line-height: 1;
 }
 
-.sectioncontentfive{
+.sectioncontentfive {
     float: left;
     width: 50%;
     padding: 48px;
@@ -166,15 +167,17 @@ color: white;
     font-family: 'Titillium Web', sans-serif !important;
 }
 
-.sectioncontentfivepara2{
+.sectioncontentfivepara2 {
     margin-top: -85px;
 }
-.sectionsfifthimg{
+
+.sectionsfifthimg {
     margin: 0px;
     width: 25%;
     margin-top: -209px;
     margin-right: 70px;
     display: flex;
-    justify-content: flex-start; /* Aligns to the left in flexbox */
+    justify-content: flex-start;
+    /* Aligns to the left in flexbox */
     align-items: center;
 }
